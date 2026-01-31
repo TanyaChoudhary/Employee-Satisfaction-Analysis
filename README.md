@@ -26,6 +26,11 @@ A correlation heatmap was generated to identify the strongest relationships betw
 1. Clone the repository  
 2. Open the Jupyter Notebook  
 3. Ensure the CSV file is in the same folder  
-4. Run all cells to generate analysis and heatmap  
+4. Run all cells to generate analysis and heatmap
+
+## 📁 Repository Structure
+- `Employee_Satisfaction_Analysis.ipynb` – Jupyter notebook with analysis  
+- `employee_survey.csv` – Survey dataset  
+- `employee_satisfaction_heatmap.png` – Output visualization  
 
 
