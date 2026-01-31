@@ -29,7 +29,7 @@ A correlation heatmap was generated to identify the strongest relationships betw
 4. Run all cells to generate analysis and heatmap
 
 ## 📁 Repository Structure
-- `Employee_Satisfaction_Analysis.ipynb` – Jupyter notebook with analysis  
+- `Employee_Satisfaction_.ipynb` – Jupyter notebook with analysis  
 - `employee_survey.csv` – Survey dataset  
 - `employee_satisfaction_heatmap.png` – Output visualization   
 
